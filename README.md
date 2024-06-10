@@ -13,7 +13,7 @@
     <h2>File Structure</h2>
     <ul>
         <li><code>bird_population_analysis.ipynb</code>: Jupyter Notebook containing the analysis code.</li>
-        <li><code>data.csv</code>: CSV file containing the dataset used for analysis.</li>
+        <li><code>data.xlsx</code>: Excel file containing the dataset used for analysis.</li>
         <li><code>README.md</code>: This file providing an overview of the project.</li>
     </ul>
     <h2>Dependencies</h2>
